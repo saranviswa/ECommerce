@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using ProductMicroservices.Contants;
 using ProductMicroservices.Model;
 using ProductMicroservices.Repository;
@@ -11,7 +10,7 @@ using ProductMicroservices.Repository;
 namespace ProductMicroservices.Controllers
 {
     [Route("api/[controller]")]
-    [Authorize]
+    //[Authorize]
     [ApiController]
     public class ProductController : ControllerBase
     {
