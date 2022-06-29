@@ -1,0 +1,148 @@
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\log4net.config
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.exe
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.deps.json
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.runtimeconfig.json
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.runtimeconfig.dev.json
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.pdb
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.csproj.AssemblyReference.cache
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.AssemblyInfoInputs.cache
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.AssemblyInfo.cs
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.csproj.CoreCompileInputs.cache
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.MvcApplicationPartsAssemblyInfo.cs
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.MvcApplicationPartsAssemblyInfo.cache
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservices.StaticWebAssets.Manifest.cache
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservices.StaticWebAssets.xml
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductMicroservices.styles.css
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.RazorTargetAssemblyInfo.cache
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.csproj.CopyComplete
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.dll
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.pdb
+D:\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.genruntimeconfig.cache
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.StaticWebAssets.xml
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.exe
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.deps.json
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.runtimeconfig.json
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.runtimeconfig.dev.json
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\ProductMicroservices.pdb
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.csproj.AssemblyReference.cache
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.AssemblyInfoInputs.cache
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.AssemblyInfo.cs
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.csproj.CoreCompileInputs.cache
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\ProductMicroservices.StaticWebAssets.Manifest.cache
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.RazorTargetAssemblyInfo.cache
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.csproj.CopyComplete
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.dll
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.pdb
+C:\Users\bsara\OneDrive\Desktop\CTS_Seminar\Retail-Product-Management-main (1)\Retail-Product-Management-main\ProductMicroservices\ProductMicroservices\obj\Debug\netcoreapp3.1\ProductMicroservices.genruntimeconfig.cache
